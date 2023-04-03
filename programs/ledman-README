@@ -1,0 +1,30 @@
+Ledman - Led device Manager
+===========================
+
+NOTE: This is alpha version of the manager. It handles the devices but
+user interface is still missing. This is for testing only until I can
+release version with full features.
+
+
+Compiling:
+==========
+
+./make
+
+
+Running:
+========
+
+Running this manager requires root privileges or SUID flag. However,
+I do not recommend to set the SUID flag. 
+
+./ledman
+
+
+Bugs:
+=====
+
+About 1 million...
+
+					Pekka Riikonen
+					priikone@poseidon.pspt.fi

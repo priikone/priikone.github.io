@@ -1,0 +1,5 @@
+* User interface. This includes scripts and stuff.
+* Software emulation of the Led device, so that it is possible
+  to test the program without actual device.
+* Right-way scrolling.
+* Some minor code fixing...
